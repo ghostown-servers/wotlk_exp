@@ -1,0 +1,356 @@
+
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_bikerdlc_01^accs_diff_006_a_uni.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_a_uni.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_gunrunning_01^lowr_diff_002_a_whi.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_heist3^hand_diff_001_a_uni.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_importexport_01^jbib_diff_014_a_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_importexport_01^jbib_diff_014_b_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_january2016^task_009_u.ydd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_mp_m_january2016^task_diff_000_a_uni.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_a.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_b.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_c.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_d.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_e.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_f.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_g.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_006_h.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_a.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_b.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_c.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_d.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_e.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_f.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_g.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_009_h.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_a.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_b.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_c.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_d.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_e.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_f.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_g.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_010_h.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_a.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_b.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_c.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_d.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_e.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_f.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_g.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p^p_eyes_diff_011_h.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/mp_m_freemode_01_p_mp_m_bikerdlc_01^p_head_diff_008_a.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset gc-someone/task_002_u.ydd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Started resource gc-someone
+[    c-scripting-core] Creating script environments for screenshot-basic
+[ citizen-server-impl] Started resource screenshot-basic
+[ citizen-server-impl] Asset taxi/taxi+hi.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset taxi/taxi.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource taxi
+[ citizen-server-impl] Asset mechanik_auto/flatbed.ytd uses 44.0 MiB of physical memory.
+[ citizen-server-impl] Started resource mechanik_auto
+[    c-scripting-core] Creating script environments for SASP
+[    c-scripting-core] Failed to load script @Exile-Handler/shared/shared.lua.
+[ citizen-server-impl] Asset SASP/15defender.yft uses 20.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/15defender_hi.yft uses 20.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/19sierra.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/19sierra_hi.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/1raptor.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/1raptor.ytd uses 16.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/1raptor_hi.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/2015polstang.ytd uses 30.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/2015polstang_hi.ytd uses 23.8 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/DL_lp610.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/DL_lp610.ytd uses 100.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/DL_lp610_hi.yft uses 31.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/DodgeViper2018.ytd uses 16.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/NYFPIU.yft uses 26.7 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/NYFPIU_hi.yft uses 26.7 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/ambulancesams.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/ambulancesams.ytd uses 91.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/ambulancesams_hi.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/bearcat.ytd uses 27.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/blvnr.yft uses 30.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/blvnr.ytd uses 21.5 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/blvnr_hi.yft uses 30.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/camaroRB.yft uses 24.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/camaroRB_hi.yft uses 22.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/caplib9.ytd uses 144.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/challenger18.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/challenger18.ytd uses 53.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/challenger18_hi.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/chargleg.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/chargleg.ytd uses 154.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/chargleg_hi.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/charglib.ytd uses 182.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/charglib2.ytd uses 144.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/charglib3.ytd uses 140.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/charglibk9.ytd uses 174.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/css_911.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/cvpilib.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/cvpilib.ytd uses 141.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/cvpilib_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/durleg.yft uses 23.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/durleg.ytd uses 107.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/durleg_hi.yft uses 23.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/durlib.yft uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/durlib.ytd uses 168.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/durlib_hi.yft uses 22.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/explib.yft uses 16.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/explib.ytd uses 176.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/explib2.ytd uses 147.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/explib3.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/explib3.ytd uses 134.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/explib3_hi.yft uses 18.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/explib_hi.yft uses 16.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/expsams.ytd uses 148.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/f250leg.yft uses 26.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/f250leg.ytd uses 130.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/f250leg_hi.yft uses 26.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/f250lib.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/f250lib.ytd uses 156.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/f250lib_hi.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/f350sams.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/f350sams.ytd uses 190.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/f350sams_hi.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fd102.yft uses 18.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fd102.ytd uses 16.8 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/fd2+hi.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/fd2.ytd uses 17.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/fdfmo.ytd uses 33.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/fdhart.yft uses 20.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fdhart.ytd uses 42.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/fdhart_hi.yft uses 22.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fj.yft uses 23.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fj_hi.yft uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/focussams.ytd uses 23.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/focustaxi.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/fordtow1.yft uses 16.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fpiuleg3.yft uses 20.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/fpiuleg3.ytd uses 110.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/fpiuleg3_hi.yft uses 20.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/gatorlib.ytd uses 132.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/hellcatum.yft uses 23.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/hellcatum.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/hellcatum1.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/hellcatum_hi.yft uses 23.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/hp_explorer.ytd uses 31.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/hp_victoria.ytd uses 27.5 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/jeep.ytd uses 17.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/lexustaxi.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/lp610.ytd uses 122.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/lp610_hi.yft uses 29.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/m5sams.yft uses 16.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/m5sams.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/m5sams_hi.yft uses 16.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/medevac.ytd uses 20.5 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/ocnetrongt.yft uses 24.9 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/ocnetrongt.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/ocnetrongt_hi.yft uses 24.9 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/omenty_challenger.ytd uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_charger18.ytd uses 19.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_explo.ytd uses 19.5 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_ford150.yft uses 27.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_ford150.ytd uses 31.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_ford150_hi.yft uses 27.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_jeep.ytd uses 18.8 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_kawasaki.yft uses 17.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_kawasaki_hi.yft uses 17.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_lexus.ytd uses 25.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_mustang.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_mustang_hi.yft uses 25.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_raptor.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_raptor.ytd uses 17.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_raptor_hi.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_silv20.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/pd_silv20.ytd uses 19.8 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/pd_silv20_hi.yft uses 28.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/sams19ram.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/sams19ram.ytd uses 77.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/sams19ram_hi.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/samsspeedo.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/sierralib.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/sierralib.ytd uses 181.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/sierralib_hi.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/silvlib.yft uses 17.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/silvlib.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/silvlib_hi.yft uses 17.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/silvsams.yft uses 26.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/silvsams.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/silvsams_hi.yft uses 26.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/smallboat.yft uses 28.3 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/smallboat.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/smallboat_hi.yft uses 28.3 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/so_challenger.yft uses 18.1 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/so_challenger.ytd uses 21.8 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/so_challenger_hi.yft uses 18.1 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/sub.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/suprapd.yft uses 27.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/suprapd.ytd uses 37.5 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/suprapd_hi.yft uses 27.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/survivor+hi.ytd uses 108.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/survivor.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/survivor.ytd uses 114.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/survivor_hi.yft uses 28.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/swat_jeep.yft uses 27.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/swat_jeep.ytd uses 110.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/swat_jeep_hi.yft uses 27.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/taholib.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/taholib.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/taholib2.ytd uses 125.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/taholib_hi.yft uses 18.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/taholibk9.yft uses 18.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/taholibk9.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/taholibk9_hi.yft uses 18.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/tarlib.ytd uses 126.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/transformerfd.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/transformerfd.ytd uses 67.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/transformerfd_hi.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/trhawksams.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/trhawksams.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/trhawksams_hi.yft uses 17.0 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/tundrasams.yft uses 27.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/tundrasams.ytd uses 86.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/tundrasams_hi.yft uses 27.6 MiB of virtual memory.
+[ citizen-server-impl] Asset SASP/uctaxi.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/unmar2020.ytd uses 70.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/van.ytd uses 22.2 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/victoriataxi+hi.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/victoriataxi.ytd uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_pd_mh3_01.ydr uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_pd_mh3_02.ydr uses 48.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_01.ydr uses 24.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_02.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_03.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_04.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_05.ydr uses 40.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/wheel_rcvpi_06.ydr uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SASP/zr1RB+hi.ytd uses 114.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SASP/zr1RB.ytd uses 68.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Started resource SASP
+[ citizen-server-impl] Asset SAMS/ms_boat1.yft uses 28.3 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_boat1.ytd uses 18.5 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_boat1_hi.yft uses 28.3 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_boat2.yft uses 30.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_boat2.ytd uses 18.0 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_boat2_hi.yft uses 30.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_boat3.yft uses 26.1 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_boat3.ytd uses 22.5 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_boat3_hi.yft uses 26.1 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_bronco.yft uses 26.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_bronco.ytd uses 52.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SAMS/ms_bronco_hi.yft uses 26.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_everest14.ytd uses 45.8 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_explorer.yft uses 21.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_explorer.ytd uses 53.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SAMS/ms_explorer_hi.yft uses 21.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_fj.yft uses 23.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_fj.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[ citizen-server-impl] Asset SAMS/ms_fj_hi.yft uses 17.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_heli.ytd uses 20.2 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_impala.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_kawasaki.yft uses 17.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_kawasaki.ytd uses 29.2 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_kawasaki_hi.yft uses 17.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_lexus.ytd uses 28.2 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_m5.yft uses 16.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_m5.ytd uses 32.0 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_m5_hi.yft uses 16.2 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_outlander.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_outlander.ytd uses 21.2 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_outlander_hi.yft uses 22.8 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_paka.ytd uses 26.2 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_ram19.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_ram19.ytd uses 19.8 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_ram19_hi.yft uses 23.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_ramambo.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_ramambo.ytd uses 43.8 MiB of physical memory.
+[ citizen-server-impl] Asset SAMS/ms_ramambo_hi.yft uses 32.5 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_silvleo.yft uses 18.4 MiB of virtual memory.
+[ citizen-server-impl] Asset SAMS/ms_silvleo_hi.yft uses 18.4 MiB of virtual memory.
+[ citizen-server-impl] Started resource SAMS
+[ citizen-server-impl] Stopping resource fc-tracker
+[    c-scripting-core] Creating script environments for fc-tracker
+[ citizen-server-impl] Started resource fc-tracker
+[ citizen-server-impl] Stopping resource fc-weaponcraft
+[    c-scripting-core] Creating script environments for fc-weaponcraft
+[ citizen-server-impl] Started resource fc-weaponcraft
+[ citizen-server-impl] Stopping resource fc-garage
+[    c-scripting-core] Creating script environments for fc-garage
+[ citizen-server-impl] Started resource fc-garage
+[ citizen-server-impl] Stopping resource fc-radialmenu
+[    c-scripting-core] Creating script environments for fc-radialmenu
+[ citizen-server-impl] Started resource fc-radialmenu
+[ citizen-server-impl] Stopping resource many-mdt
+[ citizen-server-impl] Stopping resource many-core
+[    c-scripting-core] Creating script environments for many-core
+[ citizen-server-impl] Started resource many-core
+[ citizen-server-impl] Couldn't find resource many-interakcje.
+[ citizen-server-impl] Stopping resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[      script:gcphone] = INFO = Registered number for ambulance => Pogotowie ratunkowe
+[script:esx_addons_gc] = INFO = Enregistrement du telephone ambulance => Pogotowie ratunkowe
+[ citizen-server-impl] Started resource esx_ambulancejob
+[ citizen-server-impl] Stopping resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_policejob
+[      script:gcphone] = INFO = Registered number for police => Ostrzeż policję
+[script:esx_addons_gc] = INFO = Enregistrement du telephone police => Ostrzeż policję
+[   script:pz-Odznaki] [pz-Odznaki] Dodano nowy typ odznaki! Nazwa: police
+[ citizen-server-impl] Started resource esx_policejob
+[ citizen-server-impl] Stopping resource core_jobutilities
+[    c-scripting-core] Creating script environments for core_jobutilities
+[ citizen-server-impl] Started resource core_jobutilities
+[ citizen-server-impl] Couldn't find resource many-gym.
+[ citizen-server-impl] Stopping resource fc-urzad
+[    c-scripting-core] Creating script environments for fc-urzad
+[ citizen-server-impl] Started resource fc-urzad
+[ citizen-server-impl] Stopping resource fc-bike
+[    c-scripting-core] Creating script environments for fc-bike
+[ citizen-server-impl] Started resource fc-bike
+[ citizen-server-impl] Stopping resource esx_kawiarnia
+[    c-scripting-core] Creating script environments for esx_kawiarnia
+[      script:gcphone] = INFO = Registered number for kawiarnia => Klient
+[script:esx_addons_gc] = INFO = Enregistrement du telephone kawiarnia => Klient
+[ citizen-server-impl] Started resource esx_kawiarnia
+[ citizen-server-impl] Stopping resource many-vangelicoheist
+[    c-scripting-core] Creating script environments for many-vangelicoheist
+[ citizen-server-impl] Started resource many-vangelicoheist
+[ citizen-server-impl] Stopping resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[      script:gcphone] = INFO = Registered number for ambulance => Pogotowie ratunkowe
+[script:esx_addons_gc] = INFO = Enregistrement du telephone ambulance => Pogotowie ratunkowe
+[ citizen-server-impl] Started resource esx_ambulancejob
+[    c-scripting-core] Creating script environments for many-mdt
+[ citizen-server-impl] Started resource many-mdt
+[ citizen-server-impl] Stopping resource fc-interakcje
+[    c-scripting-core] Creating script environments for fc-interakcje
+[ citizen-server-impl] Started resource fc-interakcje
+[ citizen-server-impl] Stopping resource Tomci0-Banki
+[    c-scripting-core] Creating script environments for Tomci0-Banki
+[ citizen-server-impl] Started resource Tomci0-Banki
+[ citizen-server-impl] Stopping resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_policejob
+[      script:gcphone] = INFO = Registered number for police => Ostrzeż policję
+[script:esx_addons_gc] = INFO = Enregistrement du telephone police => Ostrzeż policję
+[   script:pz-Odznaki] [pz-Odznaki] Dodano nowy typ odznaki! Nazwa: police
+[ citizen-server-impl] Started resource esx_policejob
+[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[ citizen-server-impl] server thread hitch warning: timer interval of 749 milliseconds
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://zap-hosting-e8prdb.users.cfx.re/
+[      script:oxmysql] Database server connection established!
+[ script:ox_inventory] [warning] Database contains 70 items.
+[ script:ox_inventory] [warning] These items should be removed, and any queries for items should instead reference ESX.Items
+[ script:ox_inventory] [warning] These entries are no longer removed to satisfy the creators of obfuscated and encrypted resources.
+[ script:ox_inventory] [warning] Note: Any items that exist in item data and not the database will not work in said resources.
+[ script:ox_inventory] [warning] Apparently indexing ESX.Items is too big brain, or something.
+[  script:es_extended] [INFO] ESX Legacy initialized
+[      script:oxmysql] An update is available for oxmysql (current version: 2.5.3)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.5.4
+[ script:ox_inventory] [info] Inventory has loaded 657 items
+[    script:wk_wars2x] [many-info] wk_wars2x ma najnowszą wersje
